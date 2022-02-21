@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tyler Tolley.
+- 👀 I’m interested in testing, automation and software development.
+- 🌱 I’m currently working as a Software Developer in Test, but I dabble with development in my personal time.
+- 💞️ I’m constantly looking to expand my knowledge in anything code related.
+- 📫 Check me out on LinkedIn => [https:/linkedin.com/in/tylertolley](https:/linkedin.com/in/tylertolley)
